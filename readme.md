@@ -1,3 +1,4 @@
 # git_learning
 learn git
-readme 
+readme
+Have a good time
